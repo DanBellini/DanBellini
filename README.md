@@ -1,6 +1,6 @@
 ## 👋 Hi there, i am Daniel
 
-<img align="right" alt="GIF" src="https://tenor.com/view/dev_animado-gif-25018018" width="420" height="350" />
+<img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" width="420" height="350" />
 
 #### More about me 🔭:
 
