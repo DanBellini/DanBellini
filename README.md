@@ -14,6 +14,8 @@
 <p>
 <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 danielbellinijf21@gmail.com
+</p>
+<p>
 <img alt="discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
  DanielBellini#1648
 </p>
