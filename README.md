@@ -1,6 +1,6 @@
 ## 👋 Hi there, i am Daniel
 
-<img align="right" alt="GIF" src="[[https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif](https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif)](https://tenor.com/view/dev_animado-gif-25018018)" width="420" height="350" />
+<img align="right" alt="GIF" src="https://tenor.com/view/dev_animado-gif-25018018" width="420" height="350" />
 
 #### More about me 🔭:
 
