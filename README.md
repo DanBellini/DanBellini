@@ -14,7 +14,7 @@
 
 - Graduado pela [Driven Education](https://www.driven.com.br/)
 - Tenho 27 anos
-- Atualmente moro em Blumenau
+- Atualmente moro em Juiz de Fora, MG
 - Estou procurando novas tecnologias para aprender
 - Eu também sei ler mapa astral
 
